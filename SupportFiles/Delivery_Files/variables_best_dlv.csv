@@ -1,0 +1,51 @@
+Lab_variables
+Target_var(t-1)_transporter_wise
+Target_var(t-2)_transporter_wise
+Target_var(t-3)_transporter_wise
+Target_var(t-1)
+distance
+Target_var(t-4)_transporter_wise
+Target_var(t-5)_transporter_wise
+Target_var(t-6)_transporter_wise
+Target_var(t-9)_transporter_wise
+Customer
+Target_var(t-7)_transporter_wise
+Target_var(t-8)_transporter_wise
+Gross Weight
+Base Freight
+Vehicle Type
+Vehicle Type_var(t-3)_transporter_wise
+Dest Lat
+Actual Freight
+Dest Long
+Vehicle Type_var(t-8)_transporter_wise
+Vehicle Type_var(t-2)_transporter_wise
+Count_by_route
+Vehicle Type_var(t-5)_transporter_wise
+Vehicle Type_var(t-10)_transporter_wise
+Target_var(t-10)_transporter_wise
+Vehicle Type_var(t-4)_transporter_wise
+creation_age
+Destination
+Vehicle Type_var(t-7)_transporter_wise
+Vehicle Type_var(t-1)_transporter_wise
+Vehicle Type_var(t-6)_transporter_wise
+Total_Indent_Count
+Destination_var(t-10)_transporter_wise
+Destination_var(t-1)_transporter_wise
+Destination_var(t-3)_transporter_wise
+Transit Time
+Destination_var(t-7)_transporter_wise
+Destination_var(t-2)_transporter_wise
+Destination_var(t-6)_transporter_wise
+Destination_var(t-8)_transporter_wise
+Destination_var(t-5)_transporter_wise
+Destination_var(t-4)_transporter_wise
+Destination_var(t-9)_transporter_wise
+Transporter
+Vehicle Type_var(t-9)_transporter_wise
+Source Lat
+creationhour_var(t-1)_transporter_wise
+Deliveryday_var(t-1)_transporter_wise
+Deliveryday_var(t-10)_transporter_wise
+Deliveryday_var(t-3)_transporter_wise

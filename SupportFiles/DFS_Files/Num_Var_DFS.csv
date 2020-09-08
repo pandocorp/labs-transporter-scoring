@@ -1,0 +1,35 @@
+Num_Var
+sla_delay_charges
+Gross Weight
+Transit Time
+Base Freight
+Actual Freight
+distance
+carton_damage_charges
+damage_charges
+shortage_charges
+Source Lat
+Source Long
+Dest Lat
+Dest Long
+Placement_Status
+time_to_delv
+OnTimeStatus
+Total_Indent_Count
+Count_by_route
+vehicle_count
+creationmonth_continous
+creationyear_continous
+creationhour_continous
+creationweekday_continous
+creationday_continous
+Dispatchedmonth_continous
+Dispatchedyear_continous
+Dispatchedhour_continous
+Dispatchedweekday_continous
+Dispatchedday_continous
+Deliverymonth_continous
+Deliveryyear_continous
+Deliveryhour_continous
+Deliveryweekday_continous
+Deliveryday_continous

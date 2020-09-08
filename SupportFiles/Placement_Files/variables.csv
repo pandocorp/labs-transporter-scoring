@@ -1,0 +1,120 @@
+variables
+Vehicle Type
+Customer
+contract_type
+Transporter
+Destination
+Indent Type
+Source
+holi
+Gross Weight
+Transit Time
+Base Freight
+Actual Freight
+distance
+Source Lat
+Source Long
+Total_Indent_Count
+Count_by_route
+creation_age
+vehicle_count
+Target_var(t-10)
+Target_var(t-9)
+Target_var(t-8)
+Target_var(t-7)
+Target_var(t-6)
+Target_var(t-5)
+Target_var(t-4)
+Target_var(t-3)
+Target_var(t-2)
+Target_var(t-1)
+Source_var(t-10)_transporter_wise
+Destination_var(t-10)_transporter_wise
+Vehicle Type_var(t-10)_transporter_wise
+Target_var(t-10)_transporter_wise
+creationmonth_var(t-10)_transporter_wise
+creationyear_var(t-10)_transporter_wise
+creationweekday_var(t-10)_transporter_wise
+creationhour_var(t-10)_transporter_wise
+creationday_var(t-10)_transporter_wise
+Source_var(t-9)_transporter_wise
+Destination_var(t-9)_transporter_wise
+Vehicle Type_var(t-9)_transporter_wise
+Target_var(t-9)_transporter_wise
+creationmonth_var(t-9)_transporter_wise
+creationyear_var(t-9)_transporter_wise
+creationweekday_var(t-9)_transporter_wise
+creationhour_var(t-9)_transporter_wise
+creationday_var(t-9)_transporter_wise
+Source_var(t-8)_transporter_wise
+Destination_var(t-8)_transporter_wise
+Vehicle Type_var(t-8)_transporter_wise
+Target_var(t-8)_transporter_wise
+creationmonth_var(t-8)_transporter_wise
+creationyear_var(t-8)_transporter_wise
+creationweekday_var(t-8)_transporter_wise
+creationhour_var(t-8)_transporter_wise
+creationday_var(t-8)_transporter_wise
+Source_var(t-7)_transporter_wise
+Destination_var(t-7)_transporter_wise
+Vehicle Type_var(t-7)_transporter_wise
+Target_var(t-7)_transporter_wise
+creationmonth_var(t-7)_transporter_wise
+creationyear_var(t-7)_transporter_wise
+creationweekday_var(t-7)_transporter_wise
+creationhour_var(t-7)_transporter_wise
+creationday_var(t-7)_transporter_wise
+Source_var(t-6)_transporter_wise
+Destination_var(t-6)_transporter_wise
+Vehicle Type_var(t-6)_transporter_wise
+Target_var(t-6)_transporter_wise
+creationmonth_var(t-6)_transporter_wise
+creationyear_var(t-6)_transporter_wise
+creationweekday_var(t-6)_transporter_wise
+creationhour_var(t-6)_transporter_wise
+creationday_var(t-6)_transporter_wise
+Source_var(t-5)_transporter_wise
+Destination_var(t-5)_transporter_wise
+Vehicle Type_var(t-5)_transporter_wise
+Target_var(t-5)_transporter_wise
+creationmonth_var(t-5)_transporter_wise
+creationyear_var(t-5)_transporter_wise
+creationweekday_var(t-5)_transporter_wise
+creationhour_var(t-5)_transporter_wise
+creationday_var(t-5)_transporter_wise
+Source_var(t-4)_transporter_wise
+Destination_var(t-4)_transporter_wise
+Vehicle Type_var(t-4)_transporter_wise
+Target_var(t-4)_transporter_wise
+creationmonth_var(t-4)_transporter_wise
+creationyear_var(t-4)_transporter_wise
+creationweekday_var(t-4)_transporter_wise
+creationhour_var(t-4)_transporter_wise
+creationday_var(t-4)_transporter_wise
+Source_var(t-3)_transporter_wise
+Destination_var(t-3)_transporter_wise
+Vehicle Type_var(t-3)_transporter_wise
+Target_var(t-3)_transporter_wise
+creationmonth_var(t-3)_transporter_wise
+creationyear_var(t-3)_transporter_wise
+creationweekday_var(t-3)_transporter_wise
+creationhour_var(t-3)_transporter_wise
+creationday_var(t-3)_transporter_wise
+Source_var(t-2)_transporter_wise
+Destination_var(t-2)_transporter_wise
+Vehicle Type_var(t-2)_transporter_wise
+Target_var(t-2)_transporter_wise
+creationmonth_var(t-2)_transporter_wise
+creationyear_var(t-2)_transporter_wise
+creationweekday_var(t-2)_transporter_wise
+creationhour_var(t-2)_transporter_wise
+creationday_var(t-2)_transporter_wise
+Source_var(t-1)_transporter_wise
+Destination_var(t-1)_transporter_wise
+Vehicle Type_var(t-1)_transporter_wise
+Target_var(t-1)_transporter_wise
+creationmonth_var(t-1)_transporter_wise
+creationyear_var(t-1)_transporter_wise
+creationweekday_var(t-1)_transporter_wise
+creationhour_var(t-1)_transporter_wise
+creationday_var(t-1)_transporter_wise
